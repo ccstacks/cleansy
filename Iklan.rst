@@ -3,10 +3,10 @@ Iklan
 
 Jika Anda ingin memasang kode AdSense (*in-article ad* dan *in-feed ad*) untuk blog Anda, silakan ikuti cara berikut.
 
-* :ref:`Iklan in-article`
-* :ref:`Iklan in-feed`
+* :ref:`iklan in-article`
+* :ref:`iklan in-feed`
 
-..  _Iklan in-article:
+..  _iklan in-article:
 
 Iklan In-Article
 ----------------
@@ -18,7 +18,7 @@ Cara Memasang Iklan In-Article
 
 sad
 
-..  _Iklan in-feed:
+..  _iklan in-feed:
 
 Iklan In-Feed
 -------------
