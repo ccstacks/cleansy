@@ -4,19 +4,18 @@ Selamat Datang di Cleansy!
 Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan mudah dan cepat.
 
 .. toctree::
-   :caption: Widget
+   :caption: Iklan
    :maxdepth: 2
-   
+   Iklan AdSense
+
+.. toctree::
+   :caption: Widget
+   :maxdepth: 2   
    Laman
    Menu Navigasi
    About Us
    Mailing List
-
-.. toctree::
-   :caption: Iklan
-   :maxdepth: 2
-   
-   Iklan AdSense
+   Twitter Stream
 
 Butuh Bantuan?
 --------------

@@ -24,11 +24,11 @@ Pemasangan
 
    .. image:: _static/about/2.png
 
-#. Tekan ``Ctrl+F`` pada keyboard. Kemudian ketik ``&quot;Cleansy$quot;, lalu tekan ``Enter``.
+#. Tekan ``Ctrl+F`` pada keyboard. Kemudian ketik ``&quot;Cleansy$quot;``, lalu tekan ``Enter``.
 
    .. image:: _static/subscribe/5.0.png
 
-#. Ubah kode ** ``Cleansy`` ** yang saya tandai menjadi **kode FeedBurner** yang tadi Anda *copy*.
+#. Ubah ``Cleansy`` menjadi **kode FeedBurner** yang tadi Anda *copy*.
 
    .. image:: _static/subscribe/5.png
 
@@ -37,12 +37,12 @@ Pemasangan
 Deskripsi
 ---------
 
-#. Di **HTML editor** temukan teks berikut dengan ``Ctrl+F``
+#. Di **HTML editor** temukan teks berikut dengan menggunakan ``Ctrl+F``.
 
-   **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.**
+   .. code-block:: html
 
-#. Ubah Teks berikut:
-   
-   **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.**
-   
-   Menjadi deskripsi/ kata-kata untuk mengundang pengunjung agar mau berlangganan artikel terbaru via e-mail.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.
+
+   .. image:: _static/subscribe/6.png
+
+#. Ubah Teks tersebut menjadi deskripsi/ kata-kata untuk mengundang pengunjung agar mau berlangganan artikel terbaru via e-mail.
