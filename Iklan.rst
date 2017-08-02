@@ -13,6 +13,9 @@ In-Article
 
 Iklan jenis ini akan ditempatkan di tengah-tengah artikel pada setiap postingan yang anda buat.
 
+Caranya
+~~~~~~~~~
+
 #. hitut
 #. hitut 2
 #. hitut 3
