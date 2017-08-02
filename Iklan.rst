@@ -1,7 +1,7 @@
 Iklan
 =====
 
-Jika Anda ingin memasang kode AdSense (*in-article ad* dan *in-feed ad*) untuk blog Anda, silakan ikuti cara berikut.
+Jika Anda ingin memasang kode AdSense (*in-article ad* dan *in-feed ad*) untuk blog Anda, silakan ikuti cara berikut.a
 
 * :ref:`iklan in-article`
 * :ref:`iklan in-feed`
@@ -14,7 +14,7 @@ In-Article
 Iklan jenis ini akan ditempatkan di tengah-tengah artikel pada setiap postingan yang anda buat.
 
 Caranya
-~~~~~~~~~
+~~~~~~~
 
 #. hitut
 #. hitut 2
