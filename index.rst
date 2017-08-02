@@ -6,6 +6,8 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan m
 Daftar Isi
 ---------------
 .. toctree::
-   :maxdepth: 2
- 
+   :caption: Table of Contents
+   :name: mastertoc
+   :maxdepth: 1
+   
    Iklan
