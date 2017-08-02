@@ -22,7 +22,7 @@ Deskripsi Situs
 
    .. image:: _static/about/2.png
 
-#. Tekan ``Ctrl + F`` pada keyboard. Kemudian ketik **about us**, lalu tekan ``Enter``.
+#. Tekan ``Ctrl+F`` pada keyboard. Kemudian ketik **about us**, lalu tekan ``Enter``.
 
    .. image:: _static/about/3.png
 

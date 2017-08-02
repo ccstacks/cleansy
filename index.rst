@@ -20,6 +20,6 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan m
 Butuh Bantuan?
 --------------
 
-Jika Anda memerlukan bantuan terkait edit template ini, silakan hubungi pembuat pada kontak berikut.
+Jika Anda memerlukan bantuan terkait edit template ini, silakan hubungi pembuat template pada kontak berikut.
 
 * **Facebook:** `Samsul Arif <https://fb.com/kangzoel.95>`_
