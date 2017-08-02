@@ -14,7 +14,7 @@ Deskripsi Situs
 
    .. image:: _static/about/2.png
 
-#. Tekan ``**Ctrl + F**`` pada keyboard. Kemudian ketik **about us**, lalu tekan ``Enter``.
+#. Tekan ``Ctrl + F`` pada keyboard. Kemudian ketik **about us**, lalu tekan ``Enter``.
 
    .. image:: _static/about/3.png
 
@@ -67,18 +67,18 @@ Alamat E-mail
 
 .. code-block:: html
 
-support@example.com<br/>cs@example.com
+    support@example.com<br/>cs@example.com
 
 Nomor Telepon
 -------------
 
 #. Lakukan langkah 1-4 seperti pada langkah-langkah di :ref:`Deskripsi Situs`.
 
-#. Ubah ``62-8XXXXXXXXXX<br/>62-8XXXXXXXXXX`` dengan **Nomor Telepon** yang anda inginkan (jika lebih dari 1, pisahkan dengan ``<br/>``). Contoh:
+#. Ubah ``62-8XXXXXXXXXX<br/>62-8XXXXXXXXXX`` dengan **Nomor Telepon** yang anda inginkan. Jika lebih dari 1, pisahkan dengan ``<br/>``. Contoh:
 
 .. code-block:: html
 
-62-838-2839-2918<br/>62-838-6281-7712
+    62-838-2839-2918<br/>62-838-6281-7712
 
 Alamat Fisik
 ------------
@@ -88,9 +88,12 @@ Alamat Fisik
 #. Ubah ``4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States`` dengan **Alamat Fisik** yang anda inginkan (Gunakan ``<br/>`` untuk memberikan efek garis baru). Contoh::
 4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States
 
-.. tip:: Jika anda ingin menghapus salah satu detail di widget **About Us** silakan hapus dari ``<div class='inf-item'>`` sampai ``</div>`` terdekat. Contoh:
+.. tip:: Jika anda ingin menghapus salah satu detail di widget **About Us** silakan hapus dari ``<div class='inf-item'>`` sampai ``</div>`` terdekat. 
 
-Hapus kode berikut
+Contoh:
+~~~~~~~
+
+Hapus kode berikut ini:
 
 .. code-block:: html
 
