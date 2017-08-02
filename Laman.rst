@@ -16,7 +16,7 @@ Menambahkan Laman
 
 3. Centang laman yang ingin ditambahkan **(1)** atau
 
-Klik **"+ Tambahkan tautan eksternal"** jika ingin menambahkan URL Eksternal **(2)**.
+   Klik **"+ Tambahkan tautan eksternal"** jika ingin menambahkan URL Eksternal **(2)**.
 
 .. image:: _static/laman/2.png
 
