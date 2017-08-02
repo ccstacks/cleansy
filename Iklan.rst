@@ -11,7 +11,7 @@ Jika Anda ingin memasang kode AdSense (*in-article ad* dan *in-feed ad*) untuk b
 Iklan In-Article
 ----------------
 
-Iklan in-article adalah iklan yang ditempatkan di dalam artikel anda. Dengan menggunakan template **Cleansy**, iklan tersebut akan ditempatkan di tengah-tengah artikel setiap halaman postingan yang anda buat.
+Iklan jenis ini akan ditempatkan di tengah-tengah artikel pada setiap postingan yang anda buat.
 
 Cara Memasang Iklan In-Article
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -23,4 +23,4 @@ sad
 Iklan In-Feed
 -------------
 
-a
+Iklan jenis ini akan ditempatkan di halaman *index* (daftar postingan) sesuai dengan urutan yang Anda tentukan.
