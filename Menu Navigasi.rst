@@ -5,10 +5,8 @@ Posisi widget ini berada di samping logo. **Menu Navigasi** akan diposisikan di 
 
 #. Buka menu **Layout/ Tata Letak** di dasbor `Blogger <https://www.blogger.com>`_.
 
-#. Edit **Gadget Daftar Link** dengan judul **Navigation**.
+#. Edit ``Gadget Daftar Link`` yang memiliki judul ``Navigation``.
 
    .. image:: _static/menu/0.png
 
 .. tip:: dasdjkasdhs
-
-``jsahdjad``
