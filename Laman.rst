@@ -24,7 +24,7 @@ Menambahkan Laman
 
 
 
-   .. image:: _static/laman/2.png
+   .. image:: _static/laman/2.1.png
 
 
 
