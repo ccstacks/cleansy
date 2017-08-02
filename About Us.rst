@@ -3,7 +3,7 @@ About Us
 
 Widget ini menampilkan informasi situs seperti deskripsi situs, alamat e-mail, nomor telepon dan alamat fisik.
 
-.. _Deskripsi Situs
+.. _Deskripsi Situs:
 
 Deskripsi Situs
 ---------------
@@ -60,24 +60,28 @@ Deskripsi Situs
 
 #. Ubah Teks berikut:
 
-   .. code-block:: html
+   .. topic:: 
    
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.
+
+   .. epigraph:: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.
    
-   menjadi deskripsi singkat blog Anda.
+   Menjadi deskripsi singkat blog Anda.
 
 Alamat E-mail
 -------------
 
 #. Lakukan langkah 1-4 seperti pada langkah-langkah di :ref:`Deskripsi Situs`.
 
-#. Ubah ``admin@example.com`` dengan **Alamat E-Mail** yang anda inginkan. Jika lebih dari 1, pisahkan dengan ``<br/>``.
+#. Ubah ``admin@example.com`` dengan **Alamat E-Mail** yang anda inginkan.
 
    **Contoh:**
 
    .. code-block:: html
 
       support@example.com<br/>cs@example.com
+
+   .. note:: Jika alamat e-mail lebih dari 1, pisahkan dengan ``<br/>``.
 
 Nomor Telepon
 -------------
