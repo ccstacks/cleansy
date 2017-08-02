@@ -10,6 +10,7 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan m
    Laman
    Menu Navigasi
    About Us
+   Mailing List
 
 .. toctree::
    :caption: Iklan
