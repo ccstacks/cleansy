@@ -1,13 +1,14 @@
 Iklan
 =====
 
-Jika Anda ingin memasang kode AdSense (in-article dan in-feed) untuk blog Anda, silakan ikuti cara berikut.
-* :ref:`in-article ad`
-* :ref:`in-feed ad`
+Jika Anda ingin memasang kode AdSense (*in-article ad* dan *in-feed ad*) untuk blog Anda, silakan ikuti cara berikut.
 
-..  _in-article ad:
+* :ref:`Iklan in-article`
+* :ref:`Iklan in-feed`
 
-In-Article
+..  _in-article ad
+
+Iklan In-Article
 ----------------
 
 Iklan in-article adalah iklan yang ditempatkan di dalam artikel anda. Dengan menggunakan template **Cleansy**, iklan tersebut akan ditempatkan di tengah-tengah artikel setiap halaman postingan yang anda buat.
@@ -19,7 +20,7 @@ sad
 
 ..  _in-feed ad:
 
-In-Feed 
----------------
+Iklan In-Feed
+-------------
 
 a
