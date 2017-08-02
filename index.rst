@@ -6,11 +6,13 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan m
 .. toctree::
    :caption: Iklan
    :maxdepth: 2
+
    Iklan AdSense
 
 .. toctree::
    :caption: Widget
    :maxdepth: 2   
+   
    Laman
    Menu Navigasi
    About Us
