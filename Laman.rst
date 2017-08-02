@@ -1,4 +1,4 @@
-.. image:: _static/1.png
+.. image:: _static/laman/1.png
 
 Laman
 =====
