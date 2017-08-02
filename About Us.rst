@@ -4,7 +4,7 @@ About Us
 Widget ini menampilkan informasi situs seperti deskripsi situs, alamat e-mail, nomor telepon dan alamat fisik.
 
 * :ref:`Deskripsi Situs`
-* :ref:`Alamat E-mail`
+* :ref:`Alamat E-Mail`
 * :ref:`Nomor Telepon`
 * :ref:`Alamat Fisik`
 * :ref:`Tambahan`
@@ -70,6 +70,8 @@ Deskripsi Situs
    
    Menjadi deskripsi singkat blog Anda.
 
+.. _Alamat E-Mail:
+
 Alamat E-mail
 -------------
 
@@ -84,6 +86,8 @@ Alamat E-mail
       support@example.com<br/>cs@example.com
 
    .. note:: Jika alamat e-mail lebih dari 1, pisahkan dengan ``<br/>``.
+
+.. _Nomor Telepon:
 
 Nomor Telepon
 -------------
@@ -100,6 +104,8 @@ Nomor Telepon
 
    .. note:: Jika nomor telepon lebih dari 1, pisahkan dengan ``<br/>``
 
+.. _Alamat Fisik:
+
 Alamat Fisik
 ------------
 
@@ -114,6 +120,8 @@ Alamat Fisik
       Jalan HS.Ronggo Waluyo, Puseurjaya<br/>Kabupaten Karawang - 41361<br/>Jawa Barat
 
    .. note:: Gunakan ``<br/>`` untuk memberikan efek garis baru.
+
+.. _Tambahan:
 
 Tambahan
 --------
