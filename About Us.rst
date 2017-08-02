@@ -12,7 +12,7 @@ Deskripsi Situs
 
    .. image:: _static/about/1.png
 
-#. Klik sembarang di dalam kotak ``HTML Editor``
+#. Klik sembarang pada kotak ``HTML Editor``
 
    .. image:: _static/about/2.png
 
@@ -59,12 +59,8 @@ Deskripsi Situs
         </dl>
 
 #. Ubah Teks berikut:
-
-   .. topic:: 
    
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.
-
-   .. epigraph:: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.
+   **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.**
    
    Menjadi deskripsi singkat blog Anda.
 
@@ -109,16 +105,19 @@ Alamat Fisik
 
    .. code-block:: html
 
-      4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States
+      Jalan HS.Ronggo Waluyo, Puseurjaya<br/>Kabupaten Karawang - 41361<br/>Jawa Barat
 
    .. note:: Gunakan ``<br/>`` untuk memberikan efek garis baru.
+
+Tambahan
+--------
 
 .. tip:: Jika anda ingin menghapus salah satu detail di widget **About Us** silakan hapus dari ``<div class='inf-item'>`` sampai ``</div>`` terdekat. 
 
 Contoh:
 ~~~~~~~
 
-Hapus kode berikut ini:
+Untuk menghilangkan widget alamat fisik, hapus kode berikut ini:
 
 .. code-block:: html
 
