@@ -63,7 +63,10 @@ Alamat E-mail
 
 #. Lakukan langkah 1-4 seperti pada langkah-langkah di :ref:`Deskripsi Situs`.
 
-#. Ubah ``admin@example.com`` dengan **Alamat E-Mail** yang anda inginkan (jika lebih dari 1, pisahkan dengan ``<br/>``). Contoh::
+#. Ubah ``admin@example.com`` dengan **Alamat E-Mail** yang anda inginkan (jika lebih dari 1, pisahkan dengan ``<br/>``). Contoh:
+
+.. code-block:: html
+
 support@example.com<br/>cs@example.com
 
 Nomor Telepon
@@ -71,7 +74,10 @@ Nomor Telepon
 
 #. Lakukan langkah 1-4 seperti pada langkah-langkah di :ref:`Deskripsi Situs`.
 
-#. Ubah ``62-8XXXXXXXXXX<br/>62-8XXXXXXXXXX`` dengan **Nomor Telepon** yang anda inginkan (jika lebih dari 1, pisahkan dengan ``<br/>``). Contoh::
+#. Ubah ``62-8XXXXXXXXXX<br/>62-8XXXXXXXXXX`` dengan **Nomor Telepon** yang anda inginkan (jika lebih dari 1, pisahkan dengan ``<br/>``). Contoh:
+
+.. code-block:: html
+
 62-838-2839-2918<br/>62-838-6281-7712
 
 Alamat Fisik
