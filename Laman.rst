@@ -3,7 +3,7 @@ Laman
 
 Posisi **widget laman** berada pada pojok kiri-atas header. Widget ini bisa berisi link internal ataupun eksternal.
 
-.. _Menambahkan Laman
+.. _Menambahkan Laman:
 
 Menambahkan Laman
 -----------------
@@ -18,7 +18,7 @@ Menambahkan Laman
 
    **(2)** Klik **"+ Tambahkan tautan eksternal"** jika ingin menambahkan URL Eksternal.
 
-.. image:: _static/laman/2.png
+   .. image:: _static/laman/2.png
 
 4. Simpan.
 
