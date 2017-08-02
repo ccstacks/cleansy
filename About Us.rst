@@ -3,6 +3,8 @@ About Us
 
 Widget ini menampilkan informasi situs seperti deskripsi situs, alamat e-mail, nomor telepon dan alamat fisik.
 
+.. _Deskripsi Situs
+
 Deskripsi Situs
 ---------------
 
@@ -56,7 +58,13 @@ Deskripsi Situs
         </div>
     </dl>
 
-#. Ubah ``Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.`` menjadi deskripsi singkat blog Anda.
+#. Ubah Teks berikut:
+
+   .. code-block:: html
+   
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.
+   
+   menjadi deskripsi singkat blog Anda.
 
 Alamat E-mail
 -------------
@@ -65,9 +73,9 @@ Alamat E-mail
 
 #. Ubah ``admin@example.com`` dengan **Alamat E-Mail** yang anda inginkan (jika lebih dari 1, pisahkan dengan ``<br/>``). Contoh:
 
-.. code-block:: html
+   .. code-block:: html
 
-    support@example.com<br/>cs@example.com
+      support@example.com<br/>cs@example.com
 
 Nomor Telepon
 -------------
@@ -76,17 +84,20 @@ Nomor Telepon
 
 #. Ubah ``62-8XXXXXXXXXX<br/>62-8XXXXXXXXXX`` dengan **Nomor Telepon** yang anda inginkan. Jika lebih dari 1, pisahkan dengan ``<br/>``. Contoh:
 
-.. code-block:: html
+   .. code-block:: html
 
-    62-838-2839-2918<br/>62-838-6281-7712
+      62-838-2839-2918<br/>62-838-6281-7712
 
 Alamat Fisik
 ------------
 
 #. Lakukan langkah 1-4 seperti pada langkah-langkah di :ref:`Deskripsi Situs`.
 
-#. Ubah ``4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States`` dengan **Alamat Fisik** yang anda inginkan (Gunakan ``<br/>`` untuk memberikan efek garis baru). Contoh::
-4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States
+#. Ubah ``4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States`` dengan **Alamat Fisik** yang anda inginkan. Gunakan ``<br/>`` untuk memberikan efek garis baru. Contoh:
+
+   .. code-block:: html
+
+      4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States
 
 .. tip:: Jika anda ingin menghapus salah satu detail di widget **About Us** silakan hapus dari ``<div class='inf-item'>`` sampai ``</div>`` terdekat. 
 
@@ -99,10 +110,10 @@ Hapus kode berikut ini:
 
     <div class='inf-item'>
         <dt class='l-ico'>
-        <i aria-hidden='true' class='fa fa-home'/>
-        <span class='sr'>address</span>
+            <i aria-hidden='true' class='fa fa-home'/>
+            <span class='sr'>address</span>
         </dt>
         <dd class='r-inf'>
-        4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States
+            4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States
         </dd>
     </div>
