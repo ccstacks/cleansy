@@ -3,6 +3,12 @@ About Us
 
 Widget ini menampilkan informasi situs seperti deskripsi situs, alamat e-mail, nomor telepon dan alamat fisik.
 
+* :ref:`Deskripsi Situs`
+* :ref:`Alamat E-mail`
+* :ref:`Nomor Telepon`
+* :ref:`Alamat Fisik`
+* :ref:`Tambahan`
+
 .. _Deskripsi Situs:
 
 Deskripsi Situs
