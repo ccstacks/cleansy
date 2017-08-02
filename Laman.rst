@@ -12,11 +12,13 @@ Menambahkan Laman
 
 .. image:: _static/laman/1.png
 
-3. Centang laman yang ingin ditambahkan; atau
+3. Centang laman yang ingin ditambahkan
 
-4. Klik **+ Tambahkan tautan eksternal** jika ingin menambahkan URL Eksternal.
+atau
 
-5. Simpan.
+Klik **+ Tambahkan tautan eksternal** jika ingin menambahkan URL Eksternal.
+
+4. Simpan.
 
 Menghappus Laman
 ----------------
