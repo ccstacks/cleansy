@@ -7,9 +7,8 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan m
 
 .. toctree::
    :caption: Daftar Isi
-   :maxdepth: 1
+   :maxdepth: 2
    
-   Abc
    Iklan
 
 .. title::
