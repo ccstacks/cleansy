@@ -14,7 +14,7 @@ Menambahkan Laman
 
 .. image:: _static/laman/1.png
 
-3. Centang laman yang ingin ditambahkan atau klik **+ Tambahkan tautan eksternal** jika ingin menambahkan URL Eksternal.
+3. Centang laman yang ingin ditambahkan **(1)** atau klik **"+ Tambahkan tautan eksternal"** jika ingin menambahkan URL Eksternal **(2)**.
 
 .. image:: _static/laman/2.png
 
@@ -23,7 +23,7 @@ Menambahkan Laman
 Menghapus Laman
 ----------------
 
-1. Lakukan langkah 1 dan 2 pada bagian :ref:`Menambahkan Laman`.
+1. Lakukan langkah 1 dan 2 seperti pada bagian :ref:`Menambahkan Laman`.
 
 2. Klik tanda **X** untuk menghapus laman yang Anda inginkan.
 
