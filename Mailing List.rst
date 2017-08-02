@@ -28,7 +28,7 @@ Pemasangan
 
    .. image:: _static/subscribe/5.0.png
 
-#. Ubah kode ``&quot;Cleansy$quot;`` yang saya tandai menjadi **kode FeedBurner** yang tadi Anda *copy*.
+#. Ubah kode ** ``Cleansy`` ** yang saya tandai menjadi **kode FeedBurner** yang tadi Anda *copy*.
 
    .. image:: _static/subscribe/5.png
 
