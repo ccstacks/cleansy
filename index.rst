@@ -8,6 +8,7 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan m
    :maxdepth: 2
    
    Laman
+   Menu Navigasi
 
 .. toctree::
    :caption: Iklan
