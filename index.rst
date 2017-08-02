@@ -28,4 +28,4 @@ Contents:
 .. toctree::
    :maxdepth: 2
  
-   in article ad
+   In-article Ad
