@@ -1,5 +1,5 @@
-Iklan
-=====
+Iklan AdSense
+=============
 
 Jika Anda ingin memasang kode AdSense (*in-article ad* dan *in-feed ad*) untuk blog Anda, silakan ikuti cara berikut.a
 
