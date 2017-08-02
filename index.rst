@@ -10,5 +10,3 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan m
    :maxdepth: 2
    
    Iklan
-
-.. title:: Judul Halaman
