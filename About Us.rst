@@ -22,47 +22,47 @@ Deskripsi Situs
 
 #. Scroll ke bawah, maka Anda akan menemukan blok kode seperti berikut:
 
-.. code-block:: html
+   .. code-block:: html
 
-    <h2 class='widget-title'>About Us</h2>
-    <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.
-    </p>
-    <dl class='addresses-info'>
-        <div class='inf-item'>
-            <dt class='l-ico'>
-                <i aria-hidden='true' class='fa fa-envelope'/>
-                <span class='sr'>e-mail address</span>
-            </dt>
-            <dd class='r-inf'>
-                admin@example.com
-            </dd>
-        </div>
-        <div class='inf-item'>
-            <dt class='l-ico'>
-                <i aria-hidden='true' class='fa fa-phone'/>
-                <span class='sr'>phone number</span>
-            </dt>
-            <dd class='r-inf'>
-                62-8XXXXXXXXXX<br/>62-8XXXXXXXXXX
-            </dd>
-        </div>
-        <div class='inf-item'>
-            <dt class='l-ico'>
-                <i aria-hidden='true' class='fa fa-home'/>
-                <span class='sr'>address</span>
-            </dt>
-            <dd class='r-inf'>
-                4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States
-            </dd>
-        </div>
-    </dl>
+        <h2 class='widget-title'>About Us</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.
+        </p>
+        <dl class='addresses-info'>
+            <div class='inf-item'>
+                <dt class='l-ico'>
+                    <i aria-hidden='true' class='fa fa-envelope'/>
+                    <span class='sr'>e-mail address</span>
+                </dt>
+                <dd class='r-inf'>
+                    admin@example.com
+                </dd>
+            </div>
+            <div class='inf-item'>
+                <dt class='l-ico'>
+                    <i aria-hidden='true' class='fa fa-phone'/>
+                    <span class='sr'>phone number</span>
+                </dt>
+                <dd class='r-inf'>
+                    62-8XXXXXXXXXX<br/>62-8XXXXXXXXXX
+                </dd>
+            </div>
+            <div class='inf-item'>
+                <dt class='l-ico'>
+                    <i aria-hidden='true' class='fa fa-home'/>
+                    <span class='sr'>address</span>
+                </dt>
+                <dd class='r-inf'>
+                    4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States
+                </dd>
+            </div>
+        </dl>
 
 #. Ubah Teks berikut:
 
    .. code-block:: html
    
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt magna eu purus porta tempor.
    
    menjadi deskripsi singkat blog Anda.
 
@@ -71,7 +71,9 @@ Alamat E-mail
 
 #. Lakukan langkah 1-4 seperti pada langkah-langkah di :ref:`Deskripsi Situs`.
 
-#. Ubah ``admin@example.com`` dengan **Alamat E-Mail** yang anda inginkan (jika lebih dari 1, pisahkan dengan ``<br/>``). Contoh:
+#. Ubah ``admin@example.com`` dengan **Alamat E-Mail** yang anda inginkan. Jika lebih dari 1, pisahkan dengan ``<br/>``.
+
+   **Contoh:**
 
    .. code-block:: html
 
@@ -82,22 +84,30 @@ Nomor Telepon
 
 #. Lakukan langkah 1-4 seperti pada langkah-langkah di :ref:`Deskripsi Situs`.
 
-#. Ubah ``62-8XXXXXXXXXX<br/>62-8XXXXXXXXXX`` dengan **Nomor Telepon** yang anda inginkan. Jika lebih dari 1, pisahkan dengan ``<br/>``. Contoh:
+#. Ubah ``62-8XXXXXXXXXX<br/>62-8XXXXXXXXXX`` dengan **Nomor Telepon** yang anda inginkan.
+
+   **Contoh:**
 
    .. code-block:: html
 
       62-838-2839-2918<br/>62-838-6281-7712
+
+   .. note:: Jika nomor telepon lebih dari 1, pisahkan dengan ``<br/>``
 
 Alamat Fisik
 ------------
 
 #. Lakukan langkah 1-4 seperti pada langkah-langkah di :ref:`Deskripsi Situs`.
 
-#. Ubah ``4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States`` dengan **Alamat Fisik** yang anda inginkan. Gunakan ``<br/>`` untuk memberikan efek garis baru. Contoh:
+#. Ubah ``4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States`` dengan **Alamat Fisik** yang anda inginkan.
+
+   **Contoh:**
 
    .. code-block:: html
 
       4986 Woodside Circle<br/>Fort Walton Beach, FL 32547<br/>United States
+
+   .. note:: Gunakan ``<br/>`` untuk memberikan efek garis baru.
 
 .. tip:: Jika anda ingin menghapus salah satu detail di widget **About Us** silakan hapus dari ``<div class='inf-item'>`` sampai ``</div>`` terdekat. 
 
