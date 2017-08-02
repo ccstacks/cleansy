@@ -7,7 +7,7 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan m
    :caption: Widget
    :maxdepth: 2
    
-   Iklan AdSense
+   Laman
 
 .. toctree::
    :caption: Iklan
