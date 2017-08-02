@@ -1,8 +1,7 @@
-This is a Title
+Dokumentasi Cleansy
 ===============
-That has a paragraph about a main subject and is set when the '='
-is at least the same length of the title itself.
- 
+Ini adalah dokumentas
+
 Subject Subtitle
 ----------------
 Subtitles are set with '-' and are required to have the same length 
@@ -29,4 +28,4 @@ Contents:
 .. toctree::
    :maxdepth: 2
  
-   in-article-ad
+   in article ad
