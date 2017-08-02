@@ -9,4 +9,10 @@ Posisi widget ini berada di samping logo. **Menu Navigasi** akan diposisikan di 
 
    .. image:: _static/menu/0.png
 
-.. tip:: dasdjkasdhs
+#. **(1)** Isi form untuk menambahkan link.
+
+   **(2)** Klik ``Delete`` untuk menghapus salah satu link yang Anda inginkan
+
+   .. image:: _static/menu/1.png
+
+#. Simpan.

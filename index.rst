@@ -9,6 +9,7 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan m
    
    Laman
    Menu Navigasi
+   About Us
 
 .. toctree::
    :caption: Iklan
@@ -16,8 +17,9 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan m
    
    Iklan AdSense
 
-.. toctree::
-   :caption: Lainnya
-   :maxdepth: 2
-   
-   Iklan AdSense
+Butuh Bantuan?
+--------------
+
+Jika Anda memerlukan bantuan terkait edit template ini, silakan hubungi pembuat pada kontak berikut.
+
+* **Facebook:** `Samsul Arif <https://fb.com/kangzoel.95>`_
