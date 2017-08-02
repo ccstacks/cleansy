@@ -3,22 +3,30 @@ Laman
 
 Posisi **widget laman** berada pada pojok kiri-atas header. Widget ini bisa berisi link internal ataupun eksternal.
 
+.. _Menambahkan Laman
+
 Menambahkan Laman
 -----------------
 
 1. Buka menu **Layout/ Tata Letak** pada dasbor  `Blogger <https://www.blogger.com/>`_.
 
-2. Klik Edit pada widget **Pages**.
+2. Klik **Edit** pada widget **Pages**.
 
 .. image:: _static/laman/1.png
 
-3. Centang laman yang ingin ditambahkan
+3. Centang laman yang ingin ditambahkan atau klik **+ Tambahkan tautan eksternal** jika ingin menambahkan URL Eksternal.
 
-atau
-
-Klik **+ Tambahkan tautan eksternal** jika ingin menambahkan URL Eksternal.
+.. image:: _static/laman/2.png
 
 4. Simpan.
 
-Menghappus Laman
+Menghapus Laman
 ----------------
+
+1. Lakukan langkah 1 dan 2 pada bagian :ref:`Menambahkan Laman`.
+
+2. Klik tanda **X** untuk menghapus laman yang Anda inginkan.
+
+.. image:: _static/laman/3.png
+
+3. Simpan.
