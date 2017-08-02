@@ -6,7 +6,7 @@ Jika Anda ingin memasang kode AdSense (*in-article ad* dan *in-feed ad*) untuk b
 * :ref:`Iklan in-article`
 * :ref:`Iklan in-feed`
 
-..  _in-article ad
+..  _in-article ad:
 
 Iklan In-Article
 ----------------
