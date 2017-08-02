@@ -12,20 +12,13 @@ Menambahkan Laman
 
 2. Klik **Edit** pada widget **Pages**.
 
-
-
    .. image:: _static/laman/1.png
 
+3. **(1)** Centang laman yang ingin ditambahkan; atau
 
-
-3. * **(1)** Centang laman yang ingin ditambahkan; atau
-
-   * **(2)** Klik **"+ Tambahkan tautan eksternal"** jika ingin menambahkan URL Eksternal.
-
-
+   **(2)** Klik **"+ Tambahkan tautan eksternal"** jika ingin menambahkan URL Eksternal.
 
    .. image:: _static/laman/2.1.png
-
 
 
 4. Simpan.
@@ -35,14 +28,8 @@ Menghapus Laman
 
 1. Lakukan langkah 1 dan 2 seperti pada bagian :ref:`Menambahkan Laman`.
 
-2. Klik tanda **X** untuk menghapus laman yang Anda inginkan.
-
-
-
+2. Klik tanda **"X"** untuk menghapus laman yang Anda inginkan.
 
    .. image:: _static/laman/3.png
-
-
-
 
 3. Simpan.
