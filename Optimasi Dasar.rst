@@ -1,7 +1,7 @@
 Optimasi Dasar
 ==============
 
-Untuk membuat postingan yang enak dilihat dan *SEO Friendly*, kamu perlu melakukan tahap-tahap berikut ini:
+Untuk membuat postingan yang enak dilihat dan *SEO Friendly*, Anda perlu melakukan tahap-tahap berikut ini:
 
 * :ref:`Aktifkan Preferensi Penelusuran`
 
