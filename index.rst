@@ -31,4 +31,4 @@ Butuh Bantuan?
 
 Jika Anda memerlukan bantuan terkait edit template ini, silakan hubungi pembuat template pada kontak berikut.
 
-* **Facebook:** `Samsul Arif <https://fb.com/kangzoel.95>`_
+* **Facebook: ** `Samsul Arif <https://fb.com/kangzoel.95>`_.
