@@ -16,6 +16,7 @@ Valid Microformats                      ✅ `cek <https://validator.w3.org/nu/?d
 Valid & Optimized Structured Data       ✅ `cek <https://search.google.com/structured-data/testing-tool#url=pandukode-cleansy.blogspot.com>`_
 Responsive Design                       ✅ `cek <http://www.responsinator.com/?url=pandukode-cleansy.blogspot.com>`_
 Breadcrumb di SERP                      ✅ `cek <https://www.google.com/search?q=inurl%3Apandukode-cleansy>`_
+Valid Sharing Facebook                  ✅ `cek <https://www.facebook.com/kangzoel.95/posts/257885911372629>`_
 Auto Readmore + Thumbnail               ✅
 Custom Bayangan                         ✅
 Fontawesome Icon                        ✅
@@ -27,7 +28,6 @@ Sticky Sidebar                          ✅
 Sticky Menu                             ✅
 Sticky social sharing buttons           ✅
 Twitter Latest Tweets Widget            ✅
-Valid Sharing Facebook                  ✅
 Valid Sharing Google+                   ✅
 Valid Sharing Twitter                   ✅
 ======================================  ==============================
@@ -59,7 +59,7 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi `Template Cleansy <https:
    Twitter Stream
 
 .. toctree::
-   :caption: Lanjutan
+   :caption: Kustomisasi
    :maxdepth: 2   
    
    Aktifkan atau Nonaktifkan Bayangan
