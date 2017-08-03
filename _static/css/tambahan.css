@@ -1,3 +1,7 @@
-.wy-nav-content-wrap {
-	background: #573434;
+.wy-nav-content {
+	max-width: 100%;
+}
+
+[itemprop="articleBody"] a:visited {
+	color: #9c428c;
 }
