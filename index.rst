@@ -4,7 +4,7 @@ Selamat Datang di Cleansy!
 Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan mudah dan cepat.
 
 .. toctree::
-   :caption: Yoyoy
+   :caption: Dasar
    :maxdepth: 2
 
    Optimasi Dasar
@@ -31,4 +31,4 @@ Butuh Bantuan?
 
 Jika Anda memerlukan bantuan terkait edit template ini, silakan hubungi pembuat template pada kontak berikut.
 
-* **Facebook:** `Samsul Arif <https://fb.com/kangzoel.95>`_.
+* **Facebook:** `Samsul Arif <https://fb.com/kangzoel.95>`_
