@@ -3,23 +3,33 @@ Selamat Datang di Cleansy!
 
 **Cleansy** adalah sebuah *Template Blogger* sederhana yang dibuat oleh admin `Pandu Kode <https://www.pandukode.com>`_. Berikut adalah fitur-fitur yang tersedia di template ini:
 
-=====  =====  =======
-A      B      A and B
-=====  =====  =======
-False  False  False
-True   False  False
-False  True   False
-True   True   True
-=====  =====  =======
-
-+------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
-+========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4 |
-+------------------------+------------+----------+----------+
-| body row 2             | ...        | ...      |          |
-+------------------------+------------+----------+----------+
+======================================  ==============================
+Fitur      B    
+======================================  ==============================
+AdSense In-Feed dan In-Article Script   ✅
+Auto Readmore + Thumbnail               ✅
+Breadcrumb di SERP                      ✅
+Custom Bayangan                         ✅
+Fontawesome Icon                        ✅
+Footer Links                            ✅
+Good Styled Blogger Comment System      ✅
+GTmetrix Optimized                      ✅ (97, 82) jika tanpa iklan
+Google Page Insights                    ✅ (87, 91) jika tanpa iklan
+Mobile Friendly                         ✅
+Konsultasi Template (tanpa modifikasi)  ✅
+Related Article                         ✅
+Responsive Design                       ✅
+Sticky Sidebar                          ✅
+Sticky Menu                             ✅
+Sticky social sharing buttons           ✅
+Twitter Latest Tweets Widget            ✅
+Valid HTML5                             ✅
+Valid Microformats                      ✅
+Valid & Optimized Structured Data       ✅
+Valid Sharing Facebook                  ✅
+Valid Sharing Google+                   ✅
+Valid Sharing Twitter                   ✅
+======================================  ==============================
 
 Dokumen ini akan membimbing Anda untuk mengkonfigurasi `Template Cleansy <https://pandukode-cleansy.blogspot.com/ncr>`_  dengan mudah dan cepat.
 
@@ -42,9 +52,16 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi `Template Cleansy <https:
    
    Laman
    Menu Navigasi
+   Sosial Media
    About Us
    Mailing List
    Twitter Stream
+
+.. toctree::
+   :caption: Lanjutan
+   :maxdepth: 2   
+   
+   Aktifkan atau Nonaktifkan Bayangan
 
 Butuh Bantuan?
 --------------
