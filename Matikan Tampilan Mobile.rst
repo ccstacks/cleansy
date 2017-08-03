@@ -9,4 +9,4 @@ Tampilan Moile perlu dimatikan agar template dapat ditampilkan dengan sempurna.
 
 #. Centang ``Radio button ke-2`` (lihat gambar), lalu simpan.
 
-   .. image:: _static/dasar/1/2.pngd
+   .. image:: _static/dasar/1/2.png

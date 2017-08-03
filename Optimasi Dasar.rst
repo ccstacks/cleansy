@@ -17,11 +17,11 @@ Aktifkan Preferensi Penelusuran
 Atur Deskripsi Situs
 ~~~~~~~~~~~~~~~~~~~~
 
-#. Buka menu **"Setelan > Preferensi Penelusuran > Edit"**.
+1. Buka menu **"Setelan > Preferensi Penelusuran > Edit"**.
 
   .. image:: _static/dasar/0/1.png
 
-#. Aktifkan **deskripsi penelusuran**, isi dengan deskripsi pendek situsmu (maksimal 150 karakter), lalu simpan.
+2. Aktifkan **deskripsi penelusuran**, isi dengan deskripsi pendek situsmu (maksimal 150 karakter), lalu simpan.
 
   .. image:: _static/dasar/0/2.png
 
@@ -40,14 +40,14 @@ Deskripsi Penelusuran Postingan
 
 #. Dengan mengisi **"Deskripsi Penelusuran"** seperti di atas, maka jika kita lihat di SERP akan muncul seperti berikut ini:
 
-   .. image:: _static/dasar/0.1/2.png
+   .. image:: _static/dasar/0.1/3.png
 
 .. _Membuat Paragraf Baru:
 
 Membuat Paragraf Baru
 ---------------------
 
-#. Saat membuat postingan, jika ingin memisahkan paragraf, silakan tekan ``Enter`` pada keyobard 2 kali sehingga muncul jarak diantara paragraf seperti berikut:
+#. Saat membuat postingan, jika ingin memisahkan paragraf, silakan tekan ``Enter`` pada keyboard 2 kali sehingga muncul jarak diantara paragraf seperti berikut:
 
    .. image:: _static/dasar/0.2/1.png
 
@@ -56,7 +56,7 @@ Membuat Paragraf Baru
 Optimasi Gambar
 ---------------
 
-Untuk meng-optimasi gambar agar lebih mudah dikenal oleh mesin pencari, silakan lakukan cara berikut untuk menambahkan gambar:
+Untuk mengoptimasi gambar agar lebih mudah dikenal oleh mesin pencari, silakan lakukan cara berikut untuk menambahkan setiap gambar:
 
 #. Upload gambar seperti biasa.
 
@@ -78,14 +78,16 @@ Untuk meng-optimasi gambar agar lebih mudah dikenal oleh mesin pencari, silakan 
 
    ``border="0"``
 
-#. Masuk ke **"Tampilan Compose"** (1). Klik gambar yang tadi diedit (2). Tentukan Ukuran (3). Klik **"Properties"** (4).
+    
+
+#. (1) Masuk ke **"Tampilan Compose"**. (2) Klik gambar yang tadi diedit. (3) Tentukan Ukuran. (4) Klik **"Properties"**.
 
    .. image:: _static/dasar/0.3/4.png
 
 #. Isi deskripsi singkat gambar. Lalu klik **"OK"**.
 
-   .. image:: _static/dasar/0.2/5.png
+   .. image:: _static/dasar/0.3/5.png
 
 #. Isi artikel seperti biasa.
 
-   .. image:: _static/dasar/0.2/6.png
+   .. image:: _static/dasar/0.3/6.png
