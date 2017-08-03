@@ -80,7 +80,13 @@ Untuk mengoptimasi gambar agar lebih mudah dikenal oleh mesin pencari, silakan l
 
     
 
-#. (1) Masuk ke **"Tampilan Compose"**. (2) Klik gambar yang tadi diedit. (3) Tentukan Ukuran. (4) Klik **"Properties"**.
+#. #. Masuk ke **"Tampilan Compose"**. 
+   
+   #. Klik gambar yang tadi diedit.
+   
+   #. Tentukan Ukuran.
+   
+   #. Klik **"Properties"**.
 
    .. image:: _static/dasar/0.3/4.png
 
