@@ -5,3 +5,9 @@
 [itemprop="articleBody"] a:visited {
 	color: #9c428c;
 }
+[itemprop="articleBody"] li {
+	margin: 10px 0;
+}
+li img {
+	margin: 10px 0;
+}

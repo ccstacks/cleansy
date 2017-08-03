@@ -13,7 +13,7 @@ In-Article
 
 Iklan jenis ini akan ditempatkan di tengah-tengah artikel pada setiap postingan yang anda buat.
 
-#. Cari kata ``in-article-script`` di dalam ``HTML Editor`` menggunkana ``Ctrl+F``
+#. Cari kata ``in-article-script`` di dalam ``HTML Editor`` menggunakan ``Ctrl+F``
 
 #. Scroll sedikit ke bawah dan Anda akan menemukan blok kode seperti berikut:
 
@@ -34,7 +34,7 @@ In-Feed
 
 Iklan jenis ini akan ditempatkan di halaman *index* (daftar postingan) sesuai dengan urutan yang Anda tentukan.
 
-#. Cari kata ``in-feed-script`` di dalam ``HTML Editor`` menggunkana ``Ctrl+F``
+#. Cari kata ``in-feed-script`` di dalam ``HTML Editor`` menggunakan ``Ctrl+F``
 
 #. Scroll sedikit ke bawah dan Anda akan menemukan blok kode seperti berikut:
 
