@@ -4,28 +4,29 @@ Selamat Datang di Cleansy!
 **Cleansy** adalah sebuah *Template Blogger* sederhana yang dibuat oleh admin `Pandu Kode <https://www.pandukode.com>`_. Berikut adalah fitur-fitur yang tersedia di template ini:
 
 ======================================  ==============================
-Fitur      B    
+Fitur                                   Ketersediaan    
 ======================================  ==============================
 AdSense In-Feed dan In-Article Script   ✅
+GTmetrix Optimized                      ✅ (Skor 97, 82 jika tanpa iklan)
+Google Page Insights                    ✅ (Skor 87, 91 jika tanpa iklan)
+Mobile Friendly                         ✅ `cek <https://search.google.com/test/mobile-friendly?id=FIU-5e1mDrA8yEcvp9LUnQ>`_
+Optimized SEO on chkme.com              ✅ 100% `cek <http://chkme.com/seo-pandukode-cleansy.blogspot.com>`_
+Valid HTML5                             ✅ `cek <https://validator.w3.org/nu/?doc=https://pandukode-cleansy.blogspot.com>`_
+Valid Microformats                      ✅ `cek <https://validator.w3.org/nu/?doc=https://pandukode-cleansy.blogspot.com>`_
+Valid & Optimized Structured Data       ✅ `cek <https://search.google.com/structured-data/testing-tool#url=pandukode-cleansy.blogspot.com>`_
+Responsive Design                       ✅ `cek <http://www.responsinator.com/?url=pandukode-cleansy.blogspot.com>`_
+Breadcrumb di SERP                      ✅ `cek <https://www.google.com/search?q=inurl%3Apandukode-cleansy>`_
 Auto Readmore + Thumbnail               ✅
-Breadcrumb di SERP                      ✅
 Custom Bayangan                         ✅
 Fontawesome Icon                        ✅
 Footer Links                            ✅
 Good Styled Blogger Comment System      ✅
-GTmetrix Optimized                      ✅ (97, 82) jika tanpa iklan
-Google Page Insights                    ✅ (87, 91) jika tanpa iklan
-Mobile Friendly                         ✅
 Konsultasi Template (tanpa modifikasi)  ✅
 Related Article                         ✅
-Responsive Design                       ✅
 Sticky Sidebar                          ✅
 Sticky Menu                             ✅
 Sticky social sharing buttons           ✅
 Twitter Latest Tweets Widget            ✅
-Valid HTML5                             ✅
-Valid Microformats                      ✅
-Valid & Optimized Structured Data       ✅
 Valid Sharing Facebook                  ✅
 Valid Sharing Google+                   ✅
 Valid Sharing Twitter                   ✅
