@@ -4,19 +4,17 @@ Selamat Datang di Cleansy!
 Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan mudah dan cepat.
 
 .. toctree::
-   :caption: Dasar
+   :caption: Yoyoy
    :maxdepth: 2
 
-    Optimasi Dasar
-    Matikan Tampilan Mobile
-
+   Optimasi Dasar
+   Matikan Tampilan Mobile
 
 .. toctree::
    :caption: Iklan
    :maxdepth: 2
 
    Iklan AdSense
-
 
 .. toctree::
    :caption: Widget
@@ -27,7 +25,6 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan m
    About Us
    Mailing List
    Twitter Stream
-
 
 Butuh Bantuan?
 --------------
