@@ -72,13 +72,11 @@ Untuk mengoptimasi gambar agar lebih mudah dikenal oleh mesin pencari, silakan l
 
    **Hapus Teks:**
 
-   ``imageanchor="1" style="margin-left: 1em; margin-right: 1em;``
+   ``imageanchor="1" style="margin-left: 1em; margin-right: 1em;"``
 
    dan
 
    ``border="0"``
-
-    
 
 #. #. Masuk ke **"Tampilan Compose"**. 
    

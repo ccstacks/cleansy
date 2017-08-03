@@ -9,7 +9,7 @@ Sosial Media
 
    .. image:: _static/about/2.png
 
-#. Tekan ``Ctrl+F`` pada keyboard. Kemudian ketik **connect</h2>**, lalu tekan ``Enter``.
+#. Tekan ``Ctrl+F`` pada keyboard. Kemudian ketik ``connect</h2>``, lalu tekan ``Enter``.
 
 #. Scroll ke bawah, maka Anda akan menemukan blok kode seperti berikut:
 
@@ -27,7 +27,7 @@ Sosial Media
 
 #. Jika ingin menghapus salah satu ikon sosial media, maka hapus dari ``<a`` sampai ``</a>`` terdekat.
 
-   **Contoh:** Jika saya ingin menghapus ikon instagram maka yang saya hapus adalah:
+   **Contoh:** Jika saya ingin menghapus ikon instagram, maka yang saya hapus adalah:
 
    .. code-block:: html
 
