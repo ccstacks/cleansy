@@ -16,9 +16,13 @@ Sosial Media
    .. image:: _static/sosial/1.png
 
 #. #. Ganti ``#`` menjadi url Facebook Anda.
+
    #. Ganti ``#`` menjadi url Twitter Anda.
+
    #. Ganti ``#`` menjadi url Google+ Anda.
+
    #. Ganti ``#`` menjadi url Pinterest Anda.
+
    #. Ganti ``#`` menjadi url Instagram Anda.
 
 #. Jika ingin menghapus salah satu ikon sosial media, maka hapus dari ``<a`` sampai ``</a>`` terdekat.
