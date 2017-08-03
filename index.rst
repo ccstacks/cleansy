@@ -10,11 +10,13 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan m
     Optimasi Dasar
     Matikan Tampilan Mobile
 
+
 .. toctree::
    :caption: Iklan
    :maxdepth: 2
 
    Iklan AdSense
+
 
 .. toctree::
    :caption: Widget
@@ -26,9 +28,10 @@ Dokumen ini akan membimbing Anda untuk mengkonfigurasi Template Cleansy dengan m
    Mailing List
    Twitter Stream
 
+
 Butuh Bantuan?
 --------------
 
 Jika Anda memerlukan bantuan terkait edit template ini, silakan hubungi pembuat template pada kontak berikut.
 
-* **Facebook: ** `Samsul Arif <https://fb.com/kangzoel.95>`_.
+* **Facebook:** `Samsul Arif <https://fb.com/kangzoel.95>`_.
