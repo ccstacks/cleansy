@@ -12,7 +12,7 @@ Google Page Insights                    ✅ (Skor 87, 91 jika tanpa iklan)
 Mobile Friendly                         ✅ `cek <https://search.google.com/test/mobile-friendly?id=FIU-5e1mDrA8yEcvp9LUnQ>`_
 Optimized SEO on chkme.com              ✅ 100% `cek <http://chkme.com/seo-pandukode-cleansy.blogspot.com>`_
 Valid HTML5                             ✅ `cek <https://validator.w3.org/nu/?doc=https://pandukode-cleansy.blogspot.com>`_
-Valid Microformats                      ✅ `cek <https://validator.w3.org/nu/?doc=https://pandukode-cleansy.blogspot.com>`_
+Valid Microformats                      ✅ `cek <http://pin13.net/mf2/?url=https%3A%2F%2Fpandukode-cleansy.blogspot.com>`_
 Valid & Optimized Structured Data       ✅ `cek <https://search.google.com/structured-data/testing-tool#url=pandukode-cleansy.blogspot.com>`_
 Responsive Design                       ✅ `cek <http://www.responsinator.com/?url=pandukode-cleansy.blogspot.com>`_
 Breadcrumb di SERP                      ✅ `cek <https://www.google.com/search?q=inurl%3Apandukode-cleansy>`_
